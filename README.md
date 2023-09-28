@@ -26,7 +26,7 @@ Before running this project, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/speech-to-text-converter.git
+   git clone https://github.com/yourusername/speech-to-text.git
    ```
 
 2. Navigate to the project directory:
@@ -92,6 +92,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, feel free to contact us at [oltvez@gmail.com](mailto:oltvez@gmail.com).
 
 Happy converting speech to text!
